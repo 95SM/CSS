@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+      <head>
+      <meta charset='utf-8'>
+	  <link rel="stylesheet"type="text/css"href="css/style.css">
+	  <script src="js/script.js"></script>
+	  <title>코지샵 공식 온라인스토어</title>
+	  </head>
+   <body>
+   노트산스 
+   </body>
+</html>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+/** 공통*/
+*{
+	box-sizing:border-box;
+	color:#000000;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+body{
+	margin:0;
+}
+.layout_width{
+	width:1200px;
+}
+<header>
+	         <div class='site_top'>
+			    <a href='#'>JOIN</a>ㅣ
+				<a href='#'>CART</a>ㅣ
+				<a href='#'>ORDER</a>ㅣ
+				<a href='#'>전자공고</a>ㅣ
+				
+				</div>
+	  </header>
+      <nav></nav>
+	  <section>
+	  
+	  </section>
+	  <footer></footer>
+	  a{
+	text-decoration:none;
+}/** 사이트 상단 메뉴**/
+.site_top{
+	height:30px;
+	background-color:#f9f9f9;
+	text-align:right;
+}   <div class='layout_width'>
+.layout_width{
+	width:1200px;
+		margin:0 auto;
+	border:1px solid red;
+}
